@@ -9,7 +9,7 @@
 
 # Introduction
 
-This repository contains colab notebooks and documents for experimenting with rPPG-Toolbox.
+This repository contains colab notebooks and documents for experimenting with rPPG-Toolbox (https://github.com/ubicomplab/rPPG-Toolbox)
 
 <!--
   <<< Author notes: Footer >>>
